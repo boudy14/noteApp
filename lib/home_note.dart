@@ -8,7 +8,7 @@ class HomeNotePage extends StatelessWidget {
    
    return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Note")),
+        title: Center(child: Text("hello")),
       ),
       body:SingleChildScrollView(
         child: Column(
